@@ -1,0 +1,48 @@
+Product(
+      imagePath: 'assets/images/1.png',
+      name: 'Tshirt Cursed Speech',
+      description: 'Tshirt buatan Starbhak Industries',
+      price: 225000,
+    ),
+    Product(
+      imagePath: 'assets/images/2.png',
+      name: 'Tshirt kedua',
+      description: 'Tshirt buatan Starbhak Industries',
+      price: 220000,
+    ),
+    Product(
+      imagePath: 'assets/images/3.png',
+      name: 'Tshirt ketiga',
+      description: 'Tshirt buatan Starbhak Industries',
+      price: 900000,
+    ),
+    Product(
+      imagePath: 'assets/images/4.png',
+      name: 'Tshirt keempat',
+      description: 'Tshirt buatan Starbhak Industries',
+      price: 415000,
+    ),
+    Product(
+      imagePath: 'assets/images/5.png',
+      name: 'Tshirt keempat',
+      description: 'Tshirt buatan Starbhak Industries',
+      price: 461000,
+    ),
+    Product(
+      imagePath: 'assets/images/6.png',
+      name: 'Tshirt keempat',
+      description: 'Tshirt buatan Starbhak Industries',
+      price: 415000,
+    ),
+    Product(
+      imagePath: 'assets/images/7.png',
+      name: 'Tshirt keempat',
+      description: 'Tshirt buatan Starbhak Industries',
+      price: 415000,
+    ),
+    Product(
+      imagePath: 'assets/images/8.png',
+      name: 'Tshirt keempat',
+      description: 'Tshirt buatan Starbhak Industries',
+      price: 415000,
+    ),
